@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Esas
-- 👀 I’m interested in learning sensors and using sensor data to solve computer vision tasks. 
-- 🌱 Currently: Master thesis in semantic scene completion of point clouds. 
+- 👀 Deep Learning Enthusiast 
 - 💞️ I’m looking to collaborate on projects on python
 - 📫 How to reach me esas.skhan@gmail.com
 
